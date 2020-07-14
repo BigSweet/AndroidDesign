@@ -1,4 +1,4 @@
-package com.swt.androiddesign.Decorator
+package com.swt.androiddesign.decorator
 
 
 /**
